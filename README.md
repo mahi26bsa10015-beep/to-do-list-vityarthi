@@ -2,17 +2,18 @@
 # Python To-Do List Application
 
 ## Overview
-This is a simple command-line based To-Do List application written in Python. It allows users to add tasks, view the current list of tasks, delete a selected task, and exit the application. The program is designed to help manage daily tasks efficiently using a straightforward menu-driven interface.
+This project is a basic command-line To-Do List application developed using Python. It provides users with a simple way to manage their daily tasks through a menu-based interface. Users can add new tasks, display existing tasks, remove selected tasks, and close the application when finished.
 
 ## Features
-- Add new tasks to your to-do list
-- View all current tasks in a numbered list
-- Delete tasks by entering the corresponding task number
-- Exit the application gracefully
-- Input validation to prevent invalid task deletion or menu choices
+- Add new tasks to the task list
+- Display all saved tasks with task numbers
+- Remove a task by selecting its number
+- Exit the application safely
+- Validate user input to handle incorrect menu options and task numbers
 
 ## Technologies / Tools Used
 - Python 3
+- Built-in Python libraries
 - Standard Python libraries (no external dependencies)
 - Command-line interface (CLI) for interaction
 
